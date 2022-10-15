@@ -1,2 +1,1 @@
-# netman-crm-web-app
- 
+CRM Web Application for project NetMan
